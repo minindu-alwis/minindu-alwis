@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://minindu-alwis.github.io/My-Portfolio-Website/](https://minindu-alwis.github.io/My-Portfolio-Website/)
 
-- 💬 Ask me about **Java , Java Script , Bootstrap , HTML , CSS , MySql**
+- 💬 Ask me about **Java , Java Script , Bootstrap , HTML , CSS , MySql, Springboot , Angular , React**
 
 - ⚡ Fun fact **Enjoy At Every Moments**
 
