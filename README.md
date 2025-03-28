@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Burger POS System](https://github.com/minindu-alwis/POS-System---Burger-Restaurants)
 
-- 🌱 I’m currently learning **ICET -  Sri Lanka**
+- 🌱 I’m currently learning **ICET - panadura  Sri Lanka**
 
 - 👨‍💻 All of my projects are available at [https://minindu-alwis.github.io/My-Portfolio-Website/](https://minindu-alwis.github.io/My-Portfolio-Website/)
 
