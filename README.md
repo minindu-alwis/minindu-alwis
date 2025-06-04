@@ -1,166 +1,238 @@
-# 🚀 Hi there, I'm Minindu Alwis
+<div align="center">
+
+# 🌟 Welcome to My Digital Universe! 
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=300&section=header&text=Minindu%20Alwis&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=51&descAlign=62)
+
+</div>
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=minindu-alwis&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/minindu-alwis)
-[![GitHub followers](https://img.shields.io/github/followers/minindu-alwis?label=Followers&style=for-the-badge&color=blue)](https://github.com/minindu-alwis)
-[![GitHub stars](https://img.shields.io/github/stars/minindu-alwis?label=Stars&style=for-the-badge&color=yellow)](https://github.com/minindu-alwis)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Full-Stack+Developer;🎓+ICET+Student+from+Sri+Lanka;💡+Always+Learning+Something+New;🌟+Building+Amazing+Digital+Experiences)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=minindu-alwis&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=1a1b27)](https://github.com/minindu-alwis)
+[![GitHub Followers](https://img.shields.io/github/followers/minindu-alwis?label=Followers&style=for-the-badge&color=blue&labelColor=1a1b27)](https://github.com/minindu-alwis?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/minindu-alwis?label=Stars&style=for-the-badge&color=yellow&labelColor=1a1b27)](https://github.com/minindu-alwis)
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ## 🎯 About Me
 
 ```javascript
-const minindu = {
-    location: "Sri Lanka 🇱🇰",
-    education: "ICET - Sri Lanka",
-    currentFocus: "Full-Stack Development",
-    currentProject: "Burger POS System",
-    portfolio: "https://minindu-alwis.github.io/My-Portfolio-Website/",
-    motto: "Enjoy At Every Moments ✨",
+const developer = {
+    name: "Minindu Alwis",
+    location: "🏝️ Sri Lanka",
+    education: "🎓 ICET - Sri Lanka",
+    currentFocus: "🚀 Full-Stack Development",
+    currentProject: "🌴 ExploreSriLanka-TravelLK",
+    portfolio: "🌐 Live Portfolio",
     
-    askMeAbout: [
-        "Java", "JavaScript", "React", "Angular", 
-        "Spring Boot", "MySQL", "HTML/CSS", "Bootstrap"
-    ],
+    languages: ["Java", "JavaScript", "TypeScript", "C#", "Dart"],
+    frameworks: ["React", "Angular", "Spring Boot", "Flutter"],
+    databases: ["MySQL", "MongoDB", "Oracle"],
+    cloud: ["AWS", "Google Cloud", "Firebase"],
     
-    funFact: "I believe in learning something new every day! 🌱"
+    currentlyLearning: "Advanced React Patterns & Microservices",
+    
+    lifePhilosophy: "Enjoy Every Moment & Keep Growing! ✨",
+    funFact: "I turn coffee into code! ☕️"
 };
+
+console.log("Welcome to my GitHub profile! 🎉");
 ```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,cs,dart,python,go" />
+</p>
 
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🌐 Frontend Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,html,css,bootstrap,tailwind" />
+</p>
 
-### ⚙️ Backend Development
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-!(.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+### ⚙️ Backend & Frameworks  
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,django,dotnet,express" />
+</p>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### 🗄️ Databases & Storage
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase" />
+</p>
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,nginx" />
+</p>
 
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🛠️ Tools & Development
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,postman" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
 <div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌴 [ExploreSriLanka-TravelLK](https://github.com/minindu-alwis/ExploreSriLanka-TravelLK)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minindu-alwis&repo=ExploreSriLanka-TravelLK&theme=tokyonight&hide_border=true)](https://github.com/minindu-alwis/ExploreSriLanka-TravelLK)
+
+**🎯 Current Focus Project**
+*Comprehensive travel platform showcasing the beauty of Sri Lanka*
+
+**Tech Stack:** 
+- Frontend: React/Angular
+- Backend: Spring Boot/Node.js  
+- Database: MySQL/MongoDB
+- Styling: CSS3/Bootstrap
+
+</td>
+<td width="50%">
 
 ### 🍔 [Burger POS System](https://github.com/minindu-alwis/POS-System---Burger-Restaurants)
-*A comprehensive Point of Sale system for burger restaurants*
 
-**Tech Stack:** Java • Spring Boot • MySQL • HTML/CSS • JavaScript
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=minindu-alwis&repo=POS-System---Burger-Restaurants&theme=tokyonight&hide_border=true)](https://github.com/minindu-alwis/POS-System---Burger-Restaurants)
 
-</div>
+**🍔 Restaurant Management**
+*Complete Point of Sale system for restaurant operations*
 
----
+**Tech Stack:**
+- Backend: Java & Spring Boot
+- Frontend: HTML/CSS/JavaScript
+- Database: MySQL
+- Architecture: MVC Pattern
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=minindu-alwis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minindu-alwis&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minindu-alwis&theme=tokyonight)](https://github.com/minindu-alwis)
-
-</div>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=minindu-alwis&theme=onedark&row=1&column=7)](https://github.com/minindu-alwis)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  
-[![Minindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minindu-alwis&theme=tokyo-night)](https://github.com/minindu-alwis)
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=minindu-alwis&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Minindu Alwis github stats" /> 
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minindu-alwis&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=minindu-alwis&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=minindu-alwis&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minindu-alwis/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@journeywithalwis31)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://minindu-alwis.github.io/My-Portfolio-Website/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Minindu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minindu-alwis&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/minindu-alwis)
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 🌐 Let's Connect & Collaborate!
 
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<p>
+<a href="https://www.linkedin.com/in/minindu-alwis/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+</a>
+<a href="https://www.youtube.com/@journeywithalwis31">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" />
+</a>
+<a href="https://minindu-alwis.github.io/My-Portfolio-Website/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
+</a>
+<a href="mailto:minindualwis@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+</a>
+</p>
+
+</div>
+
+---
+
+## 💭 Daily Dev Inspiration
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 🎵 *"Code is like music. When it's written well, it's a symphony."*
 
-**⭐ Star my repositories if you find them helpful!**
+## 🌟 "In a world full of algorithms, be the bug that makes everything interesting!" 
 
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+### 💡 Always open to collaborating on innovative projects!
+
+**⭐ If you find my work interesting, don't forget to star my repositories!**
+
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,17,20&height=150&section=footer&animation=fadeIn)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/minindu-alwis/minindu-alwis/blob/output/github-contribution-grid-snake.svg)
 
 </div>
