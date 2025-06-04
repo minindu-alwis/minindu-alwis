@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;ICET+Student;Problem+Solver;Tech+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=minindu-alwis&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/minindu-alwis)
 [![GitHub followers](https://img.shields.io/github/followers/minindu-alwis?label=Followers&style=for-the-badge&color=blue)](https://github.com/minindu-alwis)
