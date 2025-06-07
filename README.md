@@ -18,6 +18,11 @@
 [![GitHub Followers](https://img.shields.io/github/followers/minindu-alwis?label=🌟%20Followers&style=for-the-badge&color=f59e0b&labelColor=78350f)](https://github.com/minindu-alwis?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/minindu-alwis?label=⭐%20Stars&style=for-the-badge&color=10b981&labelColor=064e3b)](https://github.com/minindu-alwis)
 
+<div align="center">
+  
+  [![committers.top badge](https://user-badge.committers.top/sri_lanka/minindu-alwis.svg)](https://user-badge.committers.top/sri_lanka/minindu-alwis) 
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
