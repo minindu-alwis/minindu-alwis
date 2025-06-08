@@ -23,7 +23,7 @@
 <img align="center" src="https://img.shields.io/github/followers/minindu-alwis?label=🌟%20FOLLOWERS&style=for-the-badge&color=orange&labelColor=000000" />
 </td>
 <td>
-<img align="center" src="https://img.shields.io/github/stars/minindu-alwis?label=⭐%20TOTAL%20STARS&style=for-the-badge&color=green&labelColor=000000" />
+<img align="center" src="https://img.shields.io/github/stars/minindu-alwis?affiliations=OWNER&label=⭐%20TOTAL%20STARS&style=for-the-badge&color=green&labelColor=000000" />
 </td>
 </tr>
 </table>
@@ -44,11 +44,24 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="250px" height="250px">
+<img src="http://res.cloudinary.com/dwjghs0mg/image/upload/v1749294229/mnulizlt51tzxighglbg.jpg" width="280px" height="280px" style="border-radius: 50%; border: 5px solid #6366F1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5);">
 
 <h2>🎯 DIGITAL ARCHITECT</h2>
 
 <p><em>"Building tomorrow's solutions with today's innovation"</em></p>
+
+<!-- Social Links Under Profile -->
+<p>
+<a href="https://www.linkedin.com/in/minindu-alwis/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@journeywithalwis31">
+<img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:minindualwis@gmail.com">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+</p>
 
 </td>
 <td width="60%">
@@ -112,8 +125,8 @@ console.log("🌟 Ready to build the impossible!");
 <table width="100%">
 <tr>
 <td width="20%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="60px">
 <h3>💻 CORE LANGUAGES</h3>
+<p>Building the foundation with powerful programming languages</p>
 </td>
 <td width="80%" align="center">
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,cs,dart,go,rust,kotlin,swift&theme=dark&perline=10" />
@@ -125,8 +138,8 @@ console.log("🌟 Ready to build the impossible!");
 <table width="100%">
 <tr>
 <td width="20%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="60px">
 <h3>🎨 FRONTEND MASTERY</h3>
+<p>Creating stunning user experiences that captivate and engage</p>
 </td>
 <td width="80%" align="center">
 <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,nuxtjs,svelte,html,css,sass,tailwind&theme=dark&perline=10" />
@@ -138,8 +151,8 @@ console.log("🌟 Ready to build the impossible!");
 <table width="100%">
 <tr>
 <td width="20%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="60px">
 <h3>⚙️ BACKEND POWER</h3>
+<p>Engineering robust server-side solutions that scale</p>
 </td>
 <td width="80%" align="center">
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi,dotnet,nestjs,graphql,kafka,redis&theme=dark&perline=10" />
@@ -151,8 +164,8 @@ console.log("🌟 Ready to build the impossible!");
 <table width="100%">
 <tr>
 <td width="20%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="60px">
 <h3>📱 MOBILE INNOVATION</h3>
+<p>Bringing ideas to life on every device and platform</p>
 </td>
 <td width="80%" align="center">
 <img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,androidstudio,xcode,unity&theme=dark&perline=8" />
@@ -164,8 +177,8 @@ console.log("🌟 Ready to build the impossible!");
 <table width="100%">
 <tr>
 <td width="20%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="60px">
 <h3>🗄️ DATA MASTERY</h3>
+<p>Managing and optimizing data for peak performance</p>
 </td>
 <td width="80%" align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase,sqlite,cassandra&theme=dark&perline=8" />
@@ -177,8 +190,8 @@ console.log("🌟 Ready to build the impossible!");
 <table width="100%">
 <tr>
 <td width="20%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Weather/Cloud.png" width="60px">
 <h3>☁️ CLOUD & DEVOPS</h3>
+<p>Deploying and scaling applications in the cloud</p>
 </td>
 <td width="80%" align="center">
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,terraform,githubactions&theme=dark&perline=8" />
@@ -190,8 +203,8 @@ console.log("🌟 Ready to build the impossible!");
 <table width="100%">
 <tr>
 <td width="20%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="60px">
 <h3>🛠️ DEV ARSENAL</h3>
+<p>Equipped with the finest tools for maximum productivity</p>
 </td>
 <td width="80%" align="center">
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,figma,postman,notion&theme=dark&perline=8" />
@@ -214,8 +227,6 @@ console.log("🌟 Ready to build the impossible!");
 <tr>
 <td width="50%" align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Island.png" width="80px">
-
 ### 🌴 ExploreSriLanka-TravelLK
 <a href="https://github.com/minindu-alwis/ExploreSriLanka-TravelLK">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=minindu-alwis&repo=ExploreSriLanka-TravelLK&theme=tokyonight&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_color=30363D" />
@@ -236,8 +247,6 @@ console.log("🌟 Ready to build the impossible!");
 
 </td>
 <td width="50%" align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hamburger.png" width="80px">
 
 ### 🍔 Enterprise POS System
 <a href="https://github.com/minindu-alwis/POS-System---Burger-Restaurants">
@@ -302,7 +311,7 @@ console.log("🌟 Ready to build the impossible!");
 </table>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=minindu-alwis&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1F6FEB&sideLabels=1F6FEB&dates=C9D1D9&custom_title=⚡%20Contribution%20Streak%20Power" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=minindu-alwis&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=F85D7F&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1F6FEB&sideLabels=1F6FEB&dates=C9D1D9" />
 
 <!-- Achievement Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=minindu-alwis&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,MultiLanguage,Experience" />
@@ -327,7 +336,7 @@ console.log("🌟 Ready to build the impossible!");
 </div>
 
 <!-- CONNECT SECTION -->
-<h2 align="center">🌐 CONNECT & COLLABORATE 🌐</h2>
+<h2 align="center">🌐 LET'S BUILD THE FUTURE TOGETHER 🌐</h2>
 
 <div align="center">
 
@@ -335,28 +344,28 @@ console.log("🌟 Ready to build the impossible!");
 <tr>
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/minindu-alwis/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br>
 <sub><b>Professional Network</b></sub>
 </td>
 <td align="center" width="25%">
 <a href="https://www.youtube.com/@journeywithalwis31">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <br>
-<sub><b>Tech Tutorials</b></sub>
+<sub><b>Tech Tutorials & Journey</b></sub>
 </td>
 <td align="center" width="25%">
 <a href="https://minindu-alwis.github.io/My-Portfolio-Website/">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722" />
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <br>
 <sub><b>Digital Showcase</b></sub>
 </td>
 <td align="center" width="25%">
 <a href="mailto:minindualwis@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br>
 <sub><b>Direct Contact</b></sub>
@@ -366,11 +375,12 @@ console.log("🌟 Ready to build the impossible!");
 
 <br>
 
-### 🤝 Let's Build the Future Together!
+### 🤝 Open to Collaborations & Exciting Opportunities!
 
 <p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30px">
-Open to collaborations, innovative projects, and turning crazy ideas into reality!
+💡 Got an innovative project idea? Let's turn it into reality!<br>
+🚀 Looking for a passionate developer? I'm ready for the challenge!<br>
+🌟 Want to collaborate on something amazing? Let's connect!
 </p>
 
 </div>
@@ -397,24 +407,19 @@ Open to collaborations, innovative projects, and turning crazy ideas into realit
 
 <h2>🌟 DEVELOPER PHILOSOPHY 🌟</h2>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="40px">
-
 ### *"In a world of algorithms, be the creative bug that brings magic to code!"*
 
 <table width="80%">
 <tr>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50px">
 <h3>💡 INNOVATION</h3>
 <p><em>Pushing boundaries with every line of code</em></p>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" width="50px">
 <h3>🔥 PASSION</h3>
 <p><em>Coding with heart, building with soul</em></p>
 </td>
 <td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="50px">
 <h3>🏆 EXCELLENCE</h3>
 <p><em>Striving for perfection in every project</em></p>
 </td>
