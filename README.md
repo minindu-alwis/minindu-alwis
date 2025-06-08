@@ -44,7 +44,7 @@
 <tr>
 <td width="40%" align="center">
 
-<img src="http://res.cloudinary.com/dwjghs0mg/image/upload/v1749294229/mnulizlt51tzxighglbg.jpg" width="280px" height="280px" style="border-radius: 50%; border: 5px solid #6366F1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5);">
+<img src="http://res.cloudinary.com/dwjghs0mg/image/upload/v1749294229/mnulizlt51tzxighglbg.jpg" width="330px" height="280px" style="border-radius: 50%; border: 5px solid #6366F1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5);">
 
 <h2>🎯 DIGITAL ARCHITECT</h2>
 
