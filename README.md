@@ -69,7 +69,7 @@ const minindu: Developer = {
     backend: ["Spring Boot", "Node.js"],
     mobile: ["Flutter", "React Native"],
     cloud: ["AWS", "Google Cloud"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL"]
+    databases: ["MySQL", "MongoDB", "PostgreSQL","FireBase","Supabase"]
   },
   
   motto: "✨ Code with Passion, Build with Purpose! ✨"
