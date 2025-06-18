@@ -175,7 +175,7 @@ console.log("🌟 Ready to build the impossible!");
 <p>Bringing ideas to life on every device and platform</p>
 </td>
 <td width="80%" align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,kotlin,swift,androidstudio,xcode,unity&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,androidstudio,xcode,unity&theme=dark&perline=8" />
 </td>
 </tr>
 </table>
@@ -188,7 +188,7 @@ console.log("🌟 Ready to build the impossible!");
 <p>Managing and optimizing data for peak performance</p>
 </td>
 <td width="80%" align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase,supabase,sqlite,cassandra&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase,supabase,cassandra&theme=dark&perline=8" />
 </td>
 </tr>
 </table>
@@ -201,7 +201,7 @@ console.log("🌟 Ready to build the impossible!");
 <p>Deploying and scaling applications in the cloud</p>
 </td>
 <td width="80%" align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,terraform,githubactions&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions&theme=dark&perline=8" />
 </td>
 </tr>
 </table>
