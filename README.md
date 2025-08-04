@@ -41,6 +41,13 @@
 
 [![Followers](https://img.shields.io/github/followers/minindu-alwis?label=Followers&style=for-the-badge&color=orange)](https://github.com/minindu-alwis?tab=followers)
 
+<!-- SPECIAL COMMITTER BADGE -->
+<div align="center">
+<a href="https://user-badge.committers.top/sri_lanka/minindu-alwis">
+<img src="https://user-badge.committers.top/sri_lanka/minindu-alwis.svg" alt="committers.top badge" />
+</a>
+</div>
+
 </td>
 </tr>
 </table>
