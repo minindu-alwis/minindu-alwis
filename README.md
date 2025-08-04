@@ -1,4 +1,3 @@
-# 🌟 MININDU ALWIS
 
 <div align="center">
 
@@ -7,7 +6,8 @@
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%F0%9F%92%BB+Building+Digital+Experiences;%F0%9F%9A%80+Crafting+Scalable+Solutions;%F0%9F%8E%A8+Designing+User+Journeys;%E2%9A%A1+Transforming+Ideas+into+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=%F0%9F%92%BB+Building+Digital+Experiences;%F0%9F%9A%80+Crafting+Scalable+Solutions
+    " alt="Typing SVG" />
 </a>
 
 <!-- Profile Views Counter with Animation -->
