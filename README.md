@@ -8,52 +8,57 @@
 
 ---
 
-## 🚀 About Me
-
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
-🌟 **Digital Architect & Innovation Catalyst**
+### 🌟 **Digital Architect & Innovation Catalyst**
 
-- 🌍 **Location:** Sri Lanka 🇱🇰 (Pearl of the Indian Ocean)
-- 🎓 **Education:** ICET - Institute of Computer Engineering Technology
-- 🔭 **Current Project:** **ExploreSriLanka-TravelLK** - Revolutionary travel platform with 3D tours & AI recommendations
-- 💼 **Specialties:** Full-Stack Development, Mobile Apps, Cloud Architecture
-- 🎯 **Mission:** Building tomorrow's solutions with today's innovation
-- 💡 **Philosophy:** "Code is poetry written in logic, bugs are plot twists"
-- 📫 **Contact:** minindualwis@gmail.com
+<br>
 
-**🔥 Quick Stats:**
-- 💻 **100K+** lines of code written
-- 🚀 **12+** active projects
-- ⭐ **Open source** contributor
-- 🏆 **Enterprise-grade** solutions delivered
+🌍 **Location:** Sri Lanka 🇱🇰 *(Pearl of the Indian Ocean)*  
+🎓 **Education:** ICET - Institute of Computer Engineering Technology  
+🔭 **Current Project:** **ExploreSriLanka-TravelLK**  
+  └── *Revolutionary travel platform with 3D tours & AI recommendations*  
+💼 **Specialties:** Full-Stack Development • Mobile Apps • Cloud Architecture  
+🎯 **Mission:** Building tomorrow's solutions with today's innovation  
+💡 **Philosophy:** *"Code is poetry written in logic, bugs are plot twists"*  
+📫 **Contact:** [minindualwis@gmail.com](mailto:minindualwis@gmail.com)  
+
+<br>
+
+### 🔥 **Quick Stats**
+| Metric | Achievement |
+|--------|-------------|
+| 💻 **Lines of Code** | **100K+** written |
+| 🚀 **Active Projects** | **12+** ongoing |
+| ⭐ **Contributions** | **Open Source** advocate |
+| 🏆 **Solutions** | **Enterprise-grade** delivered |
 
 </td>
-<td width="40%" align="center">
+<td width="40%" align="center" valign="top">
 
-<img src="http://res.cloudinary.com/dwjghs0mg/image/upload/v1749294229/mnulizlt51tzxighglbg.jpg" width="250px" style="border-radius: 50%; border: 3px solid #6366F1; box-shadow: 0 0 20px rgba(99, 102, 241, 0.3);">
+<img src="http://res.cloudinary.com/dwjghs0mg/image/upload/v1749294229/mnulizlt51tzxighglbg.jpg" width="280px" style="border-radius: 50%; border: 4px solid #6366F1; box-shadow: 0 0 25px rgba(99, 102, 241, 0.4); transition: transform 0.3s ease;">
 
 <br><br>
+
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=minindu-alwis&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/minindu-alwis)
 
 [![Followers](https://img.shields.io/github/followers/minindu-alwis?label=Followers&style=for-the-badge&color=orange)](https://github.com/minindu-alwis?tab=followers)
 
-<!-- SPECIAL COMMITTER BADGE -->
-<div align="center">
+<br>
+
 <a href="https://user-badge.committers.top/sri_lanka/minindu-alwis">
-<img src="https://user-badge.committers.top/sri_lanka/minindu-alwis.svg" alt="committers.top badge" />
+<img src="https://user-badge.committers.top/sri_lanka/minindu-alwis.svg" alt="🏆 Top Committer Sri Lanka" style="border-radius: 8px;" />
 </a>
+
 </div>
 
 </td>
 </tr>
 </table>
-
----
-
 ## ⚡ Tech Arsenal
 
 <div align="center">
