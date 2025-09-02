@@ -50,7 +50,7 @@ const minindu = {
   currentFocus: "🔭 ExploreSriLanka-TravelLK Platform",
   passions: ["💻 Full-Stack Development", "📱 Mobile Innovation", "☁️ Cloud Architecture"],
   philosophy: "✨ Code is poetry written in logic, bugs are plot twists",
-  email: "📧 minindualwis@gmail.com",
+  email: "📧 miniduminidu100@gmail.com",
   motto: "🚀 Building tomorrow's solutions with today's innovation"
 };
 
