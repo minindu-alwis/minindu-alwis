@@ -36,7 +36,7 @@
 <!-- Social Links with Hover Effects -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minindu-alwis/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@journeywithalwis31)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://minindu-alwis.github.io/My-Portfolio-Website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://minindu-alwis.github.io/My-Portfolio-Website/](https://fantastic-hotteok-b358e7.netlify.app/))
 
 </td>
 <td width="65%" valign="top">
