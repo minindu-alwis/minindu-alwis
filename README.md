@@ -324,11 +324,11 @@ console.log("Always learning, forever innovating! 🌟");
 </td>
 <td align="center">
 <h4>🤝 Follow My Journey</h4>
-<p>Stay updated with my latest innovations and projects</p>
+<p>Stay updated with my latest innovations and projects !!!!!</p>
 </td>
 <td align="center">
 <h4>💬 Share & Discuss</h4>
-<p>Spread the word and engage in meaningful tech discussions</p>
+<p>Spread the word and engage in meaningful tech discussions !!!</p>
 </td>
 </tr>
 </table>
